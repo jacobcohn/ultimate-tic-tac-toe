@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ultimate-tic-tac-toe/static/css/main.f022cb51.css",
+    "main.js": "/ultimate-tic-tac-toe/static/js/main.d7086867.js",
+    "static/media/LEMONMILK-Regular.otf": "/ultimate-tic-tac-toe/static/media/LEMONMILK-Regular.55fc24317b9c2b507dd8.otf",
+    "static/media/Bebas-Regular.ttf": "/ultimate-tic-tac-toe/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
+    "index.html": "/ultimate-tic-tac-toe/index.html",
+    "main.f022cb51.css.map": "/ultimate-tic-tac-toe/static/css/main.f022cb51.css.map",
+    "main.d7086867.js.map": "/ultimate-tic-tac-toe/static/js/main.d7086867.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f022cb51.css",
+    "static/js/main.d7086867.js"
+  ]
+}
